@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Chen TV",
+  "description": "A premium media and portfolio application for Chen TV and its founder Silvestre Mezui Obiang, featuring news, live broadcasts, and project showcases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
